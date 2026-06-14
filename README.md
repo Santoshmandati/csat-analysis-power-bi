@@ -3,7 +3,7 @@ CSAT Analysis Dashboard
 
 ### Overview
 
-This project analyzes Customer Satisfaction (CSAT) data to understand customer experience, support performance, and operational efficiency. Using SQL for data preparation and Power BI for visualization, the dashboard provides insights into customer sentiment, service quality, SLA performance, and call trends.
+This project analyzes Customer Satisfaction (CSAT) data to understand customer experience, support performance, and operational efficiency. Using SQL for data retrive  and Power BI for visualization, the dashboard provides insights into customer sentiment, service quality, SLA performance, and call trends.
 
 ### Objectives
 
@@ -16,7 +16,7 @@ This project analyzes Customer Satisfaction (CSAT) data to understand customer e
 
 ### Tools & Technologies
 
-* **SQL** – Data cleaning and analysis
+* **SQL** –collected the data using database credentials 
 * **Power BI** – Dashboard creation and visualization
 * **Excel/CSV** – Dataset source
 
